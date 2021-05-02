@@ -16,7 +16,7 @@
 > 
 > Since it is more convenient to use Python for Linear Regression, I have fully revised the course materials and written a Python version of Linear Regression
 > 
-> The order [0,1,1] means the model is Y = b1*x + b2*x^2 + E, likewisely, The order [1,0,1] means the model is Y = b0 + b2*x^2 +E
+> The order ```[0,1,1] means the model is Y = b1*x + b2*x^2 + E, likewisely, The order [1,0,1] means the model is Y = b0 + b2*x^2 +E```
 
 
 

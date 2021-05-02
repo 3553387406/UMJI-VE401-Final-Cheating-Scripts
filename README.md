@@ -1,7 +1,7 @@
 # Reminder
 > These files need the installation of Anaconda to view
 > 
-> You can Download Hypothesis_Test.pdf and Linear_Regression.pdf for a preview
+> You can Download ```Hypothesis_Test.pdf``` and ```Linear_Regression.pdf``` for a preview
 >
 > As the files are large. Please download them (git clone is convenient) and view them locally instead of trying to do this online. As is known to all, Jupyter Notebooks is very hard to be rendered online
 
